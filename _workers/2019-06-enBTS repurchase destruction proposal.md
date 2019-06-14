@@ -83,3 +83,87 @@ This proposal does not require a budget.
 The BitShares community has long been eager for the price of BTS to rise, and the supply of bitCNY can exceed 1 billion cny. We have learned a lot from the open market operation and the  Spring Fund. The direction is right, but when the power is still weak, it can't be radical. We should slowly carry out repurchase and destruction.
 
 In a bear market where the market is sluggish, members of the community can also have a hot discussion and propose a repurchase destruction proposal. A single spark can start a prairie fire. Therefore, we urge BTS voters to consider and support this work proposal.
+
+---
+中文版
+
+---
+language: cn
+layout: worker
+type: 
+category: 
+bfid: 
+workerid: 
+title: "BTS回购销毁提案"
+name: 
+company:
+ name: 
+ url: 
+discussions:
+ - name: bitsharestalk
+   url: 
+
+price: 
+duration: 
+start: 2019/07/01
+end: 
+paymentaccount: 
+---
+
+## 动机
+
+近来，关于如何推动BTS回购的话题讨论热烈。币安等中心化交易所已经实施了平台币(BNB）回购及销毁的举措，获得不错的效果。在这个主题中，我们想要实现BTS回购以及销毁的目标。
+
+我们认为，BTS价格取决于两点：
+- 1、关键点之一在于在更广大的人群中增加 BTS 的应用场景或有大资金进入BTS的生态圈。也就是扩大需求。
+- 2、就是减少BTS的供给，比如进行回购和销毁。
+
+理想的情况是，我们通过bitCNY的交易费来不断进行回购销毁，遗憾的是资金池里的资金有限，但是通过不断回购并销毁BTS我们可以有以下的收获：
+- 资金池里bitCNY虽然少，但是营销意义大。会给持有BTS的人以巨大信心。
+- 日积月累可以使销毁的BTS越来越多。
+
+## 工作提案意图
+
+利用手续费资金池的bitcny定期定量来回购BTS，所回购的BTS进行销毁,不再流向市场。
+经广泛争取意见，回购策略定为：
+- 1、 定期定量回购：每周进行回购，每次回购10万cny,每周一次.
+- 2、 手续费bitcny积累到10万以上cny，就发起回购，直到资金池里的bitcny少于10万停止回购，如此循环。
+- 3、 回购价格：只要达到回购条件，马上以 市价 * (1-5%) 单委下单.
+- 4、 回购条件：(1) 资金池里累积的bitCNY>=10万 (2) 时间到了规定时间。
+- 5、 发动各种宣传渠道，广而告之:bts启动回购计划。以获的比较好的营销效果。
+- 6、 回购BTS立刻销毁。
+- 7、 所有回购记录公开透明，接受社区成员的监督。
+
+### 法律问题
+
+此项提案不涉及法律问题
+
+### 营销部分
+
+社区的各个成员、意见领袖、粉丝众多的大v、各种媒体资源都可以发动起来。
+
+## 预算要求
+
+此次提案不需要预算。
+
+|  |  |
+|--|--|
+| BTS回购销毁提案 | 0  bitCNY |
+| 每周回购费用 | 10,0000  bitCNY |
+| 营销费用 | 0  bitCNY |
+| 总计 | **10,0000  bitCNY**|
+|  |  |
+
+
+## 项目合作伙伴
+
+
+
+## 概要
+
+BitShares 社区一直以来渴望BTS的价格上升，bitCNY的供应量能够突破10亿元。而我们从公开市场操作、源水基金的失利学到很多，方向是对的，但力量还很弱小的时候不能激进，应该细水长流的进行回购销毁。
+
+在市场萎靡不振的熊市，社区的成员还能进行火热的讨论，并提出回购销毁提案。星星之火可以燎原。
+因此，我们敦促 BTS 的选民考虑并支持这份工作提案。
+
+
