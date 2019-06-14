@@ -1,0 +1,85 @@
+---
+language: en
+layout: worker
+type: 
+category: 
+bfid: 
+workerid: 
+title: "BTS repurchase destruction proposal"
+name: 
+company:
+ name: 
+ url: 
+discussions:
+ - name: bitsharestalk
+   url: 
+
+price: 
+duration: 
+start: 2019/07/01
+end: 
+paymentaccount: 
+---
+
+## motivation
+
+Recently, discussions on how to promote BTS repurchase have been heated. Centralized exchanges such as binance have implemented the measures of repurchase and destruction of Platform Currency (BNB), and achieved good results.In this topic, we want to achieve the goal of BTS repurchase and destruction.
+
+We believe that the BTS price depends on two points:
+
+- 1. One of the key points is to increase the application scenario of BTS in the wider population or to enter the BTS ecosystem with large funds. That is to expand demand.
+
+- 2. Reduce the supply of BTS, such as repurchase and destruction.
+
+Ideally, we continue to repurchase and destroy BTS through the transaction fee of bitCNY. Unfortunately, the funds in the pool are limited, but we can have the following benefits by continuously repurchasing and destroying the BTS:
+
+Although there are few bitCNY in the fund pool, marketing is of great significance. Will give great confidence to those who hold BTS.
+
+Over time, more and more BTS can be destroyed
+
+## Worker Intent
+
+The BTS is regularly and quantitatively purchased by the bitcny of the fee pool, and the BTS that is repurchased is destroyed and no longer flows to the market. After extensively seeking opinions, the repurchase strategy is defined as:
+- 1, regular quantitative repurchase: weekly repurchase, each repurchase 100,000 cny, once a week.
+
+- 2, the fee bitcny accumulated to more than 100,000 cny, it initiated a repurchase, until the bitcny in the pool of funds less than 100,000 to stop the repurchase, so cycle.
+
+- 3, repurchase price: As long as the repurchase conditions are met, the market price* (1-5%) will be placed immediately.
+
+- 4, repurchase conditions: (1) accumulated bitCNY> = 100,000 (2) the time is up to the stipulated time.
+
+- 5, launch a variety of publicity channels, widely advertised: bts launched a repurchase program. In order to get a better marketing effect.
+
+- 6, repurchase BTS and destroy it immediately.
+
+- 7. All repurchase records are open and transparent and subject to the supervision of community members.
+
+### Legalities
+
+This proposal has no legal implications.
+
+### Marketing Aspect
+
+Members of the community, opinion leaders, fans, all kinds of media resources can be mobilized
+
+
+## Budget Requirements
+
+This proposal does not require a budget.
+
+|  |  |
+|--|--|
+| BTS Repurchase Destruction Proposal  | 0  bitCNY |
+| Weekly repurchase fee | 10,0000  bitCNY |
+| Marketing fee | 0  bitCNY |
+| Total  | **10,0000  bitCNY**|
+|  |  |
+
+
+
+
+## Summary
+
+The BitShares community has long been eager for the price of BTS to rise, and the supply of bitCNY can exceed 1 billion cny. We have learned a lot from the open market operation and the  Spring Fund. The direction is right, but when the power is still weak, it can't be radical. We should slowly carry out repurchase and destruction.
+
+In a bear market where the market is sluggish, members of the community can also have a hot discussion and propose a repurchase destruction proposal. A single spark can start a prairie fire. Therefore, we urge BTS voters to consider and support this work proposal.
